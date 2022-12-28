@@ -1,6 +1,6 @@
 <h2>GitHub Follow Bot</h2>&nbsp;<img align="right" width="35%" src="logo.png">
 
-<h2> Developed by @devstar0202. please push "star" button. thanks</h2>
+<h2> Developed by @CodeShopFx. please push "star" button. thanks</h2>
 
 <h2> Table of Contents</h2>
 
